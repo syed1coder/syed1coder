@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Syed Shadab 🛡️
+**Independent Cybersecurity Researcher & Analyst | Bengaluru**
+
+I specialize in Security Operations Center (SOC) workflows, vulnerability management, and automating threat intelligence pipelines. I build tools that help secure development lifecycles and streamline incident response.
+
+###  Core Stack & Tools
+- **Languages:** C, Python, Java, JavaScript, SQL
+- **Security & Infra:** Kali Linux, Ubuntu, CodeQL, GitHub Actions (DevSecOps)
+- **Focus Areas:** SOC Playbook Development, Log Analysis, Intrusion Detection
+
+###  Featured Work
+- **soczapAI:** Architecture and planning for an AI-driven SOC analyst assistant.
+- **Client-Server Cryptography:** C-based remote file cryptography system utilizing socket programming.
+- **Automated Threat Intel:** CI/CD pipeline fetching daily updates from the CISA KEV catalog.
+- **Vulnerability Management:** Configured SAST pipelines using CodeQL on intentionally vulnerable web apps (OWASP).
+
+---
+###  Activity Tracking
 ![Contribution Snake](https://raw.githubusercontent.com/syed1coder/syed1coder/output/github-contribution-grid-snake-dark.svg)
 <!--
 **syed1coder/syed1coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
