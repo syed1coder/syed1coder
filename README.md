@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Contribution Snake](https://raw.githubusercontent.com/syed1coder/syed1coder/output/github-contribution-grid-snake-dark.svg)
 <!--
 **syed1coder/syed1coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
